@@ -6,3 +6,5 @@
 This is normal text, `quote`
 
 This is a piece of shit theme.
+
+This [refers to something.md](something.md)
